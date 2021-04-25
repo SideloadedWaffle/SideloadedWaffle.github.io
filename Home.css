@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(64,64,64,0.5), rgba(64,64,64,0.5)), url("images/greens.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/greens.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -27,8 +27,8 @@
   white-space: nowrap;
   height: 48px;
   min-height: 16px;
-  width: 267px;
-  min-width: 139px;
+  width: 121px;
+  min-width: 57px;
   animation-duration: 1000ms;
   margin: 22px auto 60px 30px;
 }
@@ -38,14 +38,6 @@
 }
 
 .u-section-1 .u-icon-2 {
-  height: 100%;
-}
-
-.u-section-1 .u-icon-3 {
-  height: 100%;
-}
-
-.u-section-1 .u-icon-4 {
   height: 100%;
   color: rgb(255, 255, 255) !important;
 }
@@ -71,14 +63,6 @@
   }
 
   .u-section-1 .u-icon-1 {
-    color: rgb(255, 255, 255) !important;
-  }
-
-  .u-section-1 .u-icon-2 {
-    color: rgb(255, 255, 255) !important;
-  }
-
-  .u-section-1 .u-icon-3 {
     color: rgb(255, 255, 255) !important;
   }
 }
@@ -118,7 +102,7 @@
     margin-left: 21px;
   }
 }.u-section-2 {
-  background-image: linear-gradient(0deg, rgba(51,51,51,0.4), rgba(51,51,51,0.4)), url("images/greens.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/flipped.jpg");
   background-position: 50% 50%;
 }
 
